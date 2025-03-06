@@ -110,18 +110,9 @@
 
 本程序仅供学习和研究使用，请勿用于商业用途。使用本程序产生的任何问题由使用者自行承担。
 
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request 来帮助改进这个项目！
-
-## 📞 联系方式
-
-如有问题或建议，请通过以下方式联系：
-- 提交 Issue
-- 发送邮件至：[your-email@example.com]
 
 ---
 
 <div align="center">
-Made with ❤️ for FFXIV players
+Siren
 </div> 
