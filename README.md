@@ -3,6 +3,7 @@
 <div align="center">
 
 ![LOGO](https://raw.githubusercontent.com/extrant/IMGSave/main/FFXivStorkLauncher/logo.png)
+
 ![FFXIV](https://img.shields.io/badge/FFXIV-国服-blue)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 ![Version](https://img.shields.io/badge/Version-1.0.1-green)
@@ -13,8 +14,8 @@
 
 这是一个用于管理 Final Fantasy XIV 国服账号的启动器工具，目前已经支持双端登录。依赖于Python & Pyimgui & FFxivArgLauncher，你可以轻松管理多个游戏账号，并支持 Dalamud 自动注入功能，亦或者仅仅使用注入功能。
 
-# [NyLib2](https://github.com/nyaoouo/NyLib2)
-# [ArgLauncher](https://github.com/ottercorp/FfxivArgLauncher)
+- [NyLib2](https://github.com/nyaoouo/NyLib2)
+- [ArgLauncher](https://github.com/ottercorp/FfxivArgLauncher)
 
 ## 📸 项目截图
 
