@@ -12,7 +12,7 @@
 
 ## 📝 简介
 
-这是一个用于管理 Final Fantasy XIV 国服账号的启动器工具，目前已经支持双端登录。依赖于Python & Pyimgui & FFxivArgLauncher，你可以轻松管理多个游戏账号，并支持 Dalamud 自动注入功能，亦或者仅仅使用注入功能。
+这是一个用于管理 Final Fantasy XIV 国服账号的启动器工具，目前已经支持双端登录。依赖于Python & Pyimgui & FFxivArgLauncher，你可以轻松管理多个游戏账号，并支持 Dalamud 自动注入功能，亦或者仅仅使用注入功能。现已支持 Dalamud 本体以及 FFXivStorkLauncher 本体更新。
 
 - [NyLib2](https://github.com/nyaoouo/NyLib2)
 - [ArgLauncher](https://github.com/ottercorp/FfxivArgLauncher)
@@ -28,7 +28,7 @@
 ## ✨ 功能特点
 
 - 🎯 多账号管理：轻松添加、删除和重命名游戏账号
-- 🔄 自动/强制注入：支持 Dalamud 自动注入功能/指定PID注入，可配置 Dalamud 自动注入延迟
+- 🔄 自动/强制注入：支持 Dalamud 自动注入功能/指定PID注入，可配置 Dalamud 自动注入延迟，可手动更新 Dalamud 以及启动器。
 - ⏱️ 离线启动：没有任何强制性更新检查，即刻启动注入
 - 📊 实时反馈：显示详细的启动器输出和错误信息
 - 🔒 安全存储：账号信息经过加密存储
@@ -42,9 +42,8 @@
 ## 🔧 Dalamud 安装（可选）
 **如果你启动过一次或者正常注入过国服Dalamud，则不要看这一条**
 ### 手动安装
-1. 在程序目录下创建 `Dalamud.Injector` 文件夹
-2. 从獭或猫公司的 Dalamud 最新构建中下载 `Dalamud`
-3. 将 `Dalamud` 解压放入 `Dalamud.Injector` 文件夹中 确保 `Dalamud.Injector` 文件夹中包含 `Dalamud.Injector.exe`
+1. 在程序->设置 进行 `Dalamud更新` 会尝试自动下载由 `AtmoOmen`维护的Dalamud。
+
 
 ## 📖 使用说明
 
@@ -100,6 +99,11 @@
 - 优化注入方法
 - 现在可以识别WG和SQ客户端了
 - 增加了强制注入功能
+
+### v1.0.2
+- 更新是否启动 Dalamud的开关
+- 优化注入逻辑
+- 测试性的更新方案
 
 ## 📄 免责声明
 
